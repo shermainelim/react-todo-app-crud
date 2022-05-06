@@ -87,7 +87,7 @@
 .complete {
   text-decoration-style: solid;
   text-decoration-line: line-through;
-  text-decoration-color: orangered;
+  text-decoration-color: darkgray;
 }
 
 .list {
